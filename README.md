@@ -1,0 +1,2 @@
+# Predicting-Solar-Cell-Efficiency-Using-Machine-Learning-and-Quadrupole-Moment
+Recent strides in Organic photovoltaics (OPVs) with non-fullerene acceptors (NFAs) face efficiency challenges. This study uses machine learning (ML) to analyze the quadrupole moment (Q20) for predicting short-circuit current (Jsc) and power conversion efficiency (PCE). Combining Q20 with other descriptors enhances prediction accuracy.
